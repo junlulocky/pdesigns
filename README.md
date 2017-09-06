@@ -7,6 +7,8 @@
 
 ## Logo for CheerML:
 
+The letter "C" with Chinese painting style:
+
 ![CheerML logo](/mlessence/logo.png)
 
 
