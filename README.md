@@ -1,7 +1,9 @@
 
 # Designs
 
-## CheerML: the essence of machine learning (/mlessence_cocon & /mlessence_light)
+## CheerML: the essence of machine learning 
+
+Folder: /mlessence_cocon & /mlessence_light
 
 ![CheerML](/mlessence_cocon/mlessence_blue2.png)
 
