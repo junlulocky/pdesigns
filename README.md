@@ -18,4 +18,13 @@ The letter "C" with Chinese painting style:
 
 ![icon](/AppIconGrid/AppIconGrid.jpg)
 
+## Emotional designs
+
+### Morning
+
+![Morning](/morning/早.gif)
+
+### haha
+
+![hahaaaaaa](/haha/haha.gif)
 
