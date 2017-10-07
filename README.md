@@ -24,6 +24,8 @@ The letter "C" with Chinese painting style:
 
 ![mlstats](/statsml/mlstats.png)
 
+![mao](/statsml/mao.png)
+
 
 ## Emotional designs
 
