@@ -1,5 +1,20 @@
-
 # Designs
+
+**Table of Contents**  
+
+- [Designs](#designs)
+  - [CheerML: the essence of machine learning](#cheerml-the-essence-of-machine-learning)
+  - [Logo for CheerML:](#logo-for-cheerml)
+  - [Mobile application icon (/AppIconGrid)](#mobile-application-icon-appicongrid)
+  - [ML & Stats](#ml--stats)
+  - [For Fun](#for-fun)
+    - [Deep Learning?](#deep-learning)
+  - [Emotional designs](#emotional-designs)
+    - [Morning](#morning)
+    - [haha](#haha)
+
+
+
 
 ## CheerML: the essence of machine learning 
 
