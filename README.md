@@ -26,6 +26,13 @@ The letter "C" with Chinese painting style:
 
 ![mao](/statsml/mao.png)
 
+## For Fun
+
+### Deep Learning?
+
+![dlread1](/dlread/dlread1.jpg)
+
+![dlread2](/dlread/dlread2.jpg)
 
 ## Emotional designs
 
